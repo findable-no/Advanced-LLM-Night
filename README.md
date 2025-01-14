@@ -1,2 +1,2 @@
 # Advanced-LLM-Night
-Presentations and code from LLM Night 1 at Findable
+Presentations and code from Advanced LLM Night at Findable
